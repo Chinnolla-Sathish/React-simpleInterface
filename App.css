@@ -1,0 +1,26 @@
+main {
+  
+  text-align: center;
+  padding:10px;
+  background-color:#E6F7FF;
+  height:100vh;
+  }
+.react
+{
+
+  background-color:orange;
+}
+.form{
+  padding:20px;
+}
+.b
+{
+  border:none;
+  padding:10px;
+  border-radius:10px;
+  background-color:#FFE6E6;
+  transition: background-color 0.3s ease-in-out;
+}
+.b:hover{
+  background-color:green;
+}
